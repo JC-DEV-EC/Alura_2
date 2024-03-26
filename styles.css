@@ -1,0 +1,63 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/background_mentalista.png");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: #ffffff;
+}
+  
+.container {
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+}
+  
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+  
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+}
+  
+.page-logo {
+    padding: 50px 0 50px 0;
+    width: 450px;
+}
+  
+.alura-latam-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+  
+body > img {
+    margin: 0 10px;
+}
+  
+img {
+    max-height: 350px;
+}
+
+input[type="text"],
+input[type="number"],
+button {
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 10px; /* Aumentar el espacio dentro del elemento */
+    width: 200px; /* Aumentar el ancho */
+    background-color: #333; /* Cambiar el color de fondo */
+    color: white; /* Cambiar color del texto a blanco */
+    border: none; /* Quitar el borde predeterminado */
+    margin-bottom: 10px; /* Agregar espacio entre elementos */
+}
+
+button {
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+}
