@@ -28,7 +28,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 1. **Clona el repositorio**:
 
     ```bash
-    git clone https://github.com/LatinGladiador/Alura_2/
+    git clone https://github.com/LatinGladiador/Alura_2.git
     ```
 
 2. **Navega al directorio del proyecto**:
