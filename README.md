@@ -34,7 +34,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 2. **Navega al directorio del proyecto**:
 
     ```bash
-    cd Mentalista
+    cd Alura_2
     ```
 
 3. **Abre el archivo `index.html` en tu navegador**.
