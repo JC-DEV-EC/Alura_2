@@ -47,10 +47,6 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 - **Adivinanza:** Introduce un número en el campo de entrada y haz clic en "Adivinar" para intentar adivinar el número secreto.
 - **Retroalimentación:** Se te informará si el número es correcto, mayor o menor. El juego termina después de alcanzar el número máximo de intentos o al adivinar correctamente el número.
 
-## 👤 Autor
-
-Este proyecto fue creado y es mantenido por [LatinGladiador](https://github.com/LatinGladiador).
-
 ## 🤝 Contribuciones
 
 Las contribuciones al proyecto son bienvenidas. Si deseas contribuir, sigue estos pasos:
@@ -64,6 +60,10 @@ Las contribuciones al proyecto son bienvenidas. Si deseas contribuir, sigue esto
 ## 🙏 Agradecimientos
 
 Este proyecto fue inspirado por el curso de [Alura](https://www.alura.com.br/).
+
+## 👤 Autor
+
+Este proyecto fue creado y es mantenido por [LatinGladiador](https://github.com/LatinGladiador).
 
 ## 📜 Licencia
 
